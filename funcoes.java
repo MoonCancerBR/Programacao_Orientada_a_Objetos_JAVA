@@ -1,7 +1,7 @@
 package projeto_poo;
 import java.util.InputMismatchException;
 import java.util.Scanner;
-public class Funcoes {
+public class funcoes {
     public static void main(String[] args) {
         Scanner sn = new Scanner(System.in);
         sn.useDelimiter("\n");
